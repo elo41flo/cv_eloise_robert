@@ -1,0 +1,2 @@
+# Force GitHub à considérer les fichiers .jsx comme JSX
+*.jsx linguist-language=JavaScript
